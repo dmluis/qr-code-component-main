@@ -40,7 +40,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 I learned build a web page responsive with html, css and media queries.
 
 ## Author
-- LinkedIn - [@LuisDomiciano](htts://www.linkedin.com/in/luisdomiciano)
+- LinkedIn - [@LuisDomiciano](https://www.linkedin.com/in/luisdomiciano)
 - Github - [@dmluis](https://github.com/dmluis)
 - Frontend Mentor - [@dmluis](https://www.frontendmentor.io/profile/dmluis)
 - Twitter - [@__LuisD](https://www.twitter.com/__LuisD)
