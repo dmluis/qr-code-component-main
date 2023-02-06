@@ -9,6 +9,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Outfit';
 }
 
 body {
@@ -41,12 +42,14 @@ main {
   text-align: center;
   margin: 2rem auto;
   color: var(--dark-blue);
+  font-weight: 700;
 }
 
 .card__text {
   text-align: center;
   margin: 2rem;
   color: var(--grayish-blue);
+  font-weight: 400;
 }
 
 .footer__container {
