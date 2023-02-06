@@ -13,8 +13,38 @@
 
 body {
   background-color: var(--light-gray);
+  padding: 5rem;
 }
 
 p {
   font-size: 15px;
+}
+
+main {
+  padding: 5rem;
+}
+
+.card__container {
+  background-color: var(--white);
+  width: 400px;
+  height: 600px;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 5%;
+}
+
+.card__image {
+  width: 100%;
+}
+
+.card__title {
+  text-align: center;
+  margin: 2rem auto;
+  color: var(--dark-blue);
+}
+
+.card__text {
+  text-align: center;
+  margin: 2rem;
+  color: var(--grayish-blue);
 }
