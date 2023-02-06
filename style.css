@@ -48,3 +48,19 @@ main {
   margin: 2rem;
   color: var(--grayish-blue);
 }
+
+.footer__container {
+  width: 600px;
+  margin: 0 auto;
+  padding: 2px;
+  text-align: center;
+}
+
+.footer__item {
+  list-style: none;
+}
+
+.footer__link {
+  text-decoration: none;
+}
+
